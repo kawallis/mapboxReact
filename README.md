@@ -1,1 +1,3 @@
-Example of creating mapbox routes with react !
+Example of creating mapbox routes with React !
+
+Be sure to add your api Keys to get the repo to work....
